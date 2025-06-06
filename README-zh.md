@@ -19,7 +19,7 @@ Simple Blog 是一个简单的博客后端服务，提供文章的增删改查�
 - 其他依赖请查看 package.json
 
 ## 联系方式
-如有问题请联系：your@email.com
+如有问题请联系：star2755562152@email.com
 
 ---
 
@@ -42,4 +42,4 @@ Simple Blog 前端是一个简单的博客前端界面，配合后端实现博�
 - 其他依赖请查看 package.json
 
 ## 联系方式
-如有问题请联系：your@email.com
+如有问题请联系：star2755562152@email.com
