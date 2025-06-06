@@ -19,7 +19,7 @@ Simple Blog is a simple blog backend service providing basic CRUD operations for
 - See package.json for more
 
 ## Contact
-For questions, contact: your@email.com
+For questions, contact: star2755562152@email.com
 
 
 ---
