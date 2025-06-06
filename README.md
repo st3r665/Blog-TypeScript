@@ -43,7 +43,7 @@ Simple Blog Frontend is a simple blog UI that works with the backend to provide 
 - See package.json for more
 
 ## Contact
-For questions, contact: your@email.com
+For questions, contact: star2755562152@email.com
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
